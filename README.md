@@ -1,5 +1,12 @@
 # MQP2019
 
+## Python basics on Jupyter notebook
+
+In this section, we will get familiar with python language with Jupyter notebook through some financial applications.
+
+- Environment setup [ipynb](./other/first_notebook_v01.ipynb)
+- Python on Jupyter notebook [ipynb](./other/python_notebook.ipynb)
+- Pandas [ipynb](./other/pandas_basics.ipynb)
 
 ## References:
 
