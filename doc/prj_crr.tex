@@ -1,0 +1,156 @@
+\documentclass{article}
+\usepackage[pagebackref,letterpaper=true,colorlinks=true,pdfpagemode=none,urlcolor=blue,linkcolor=blue,citecolor=blue,pdfstartview=FitH]{hyperref}
+
+\usepackage{amsmath,amsfonts}
+\usepackage{graphicx}
+\usepackage{color}
+
+
+\setlength{\oddsidemargin}{0pt}
+\setlength{\evensidemargin}{0pt}
+\setlength{\textwidth}{6.0in}
+\setlength{\topmargin}{0in}
+\setlength{\textheight}{8.5in}
+
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{5px}
+
+%\input{macrosblog}
+
+%%%%%%%%% For wordpress conversion
+
+\def\more{}
+
+\newif\ifblog
+\newif\iftex
+\blogfalse
+\textrue
+
+
+\usepackage{ulem}
+\def\em{\it}
+\def\emph#1{\textit{#1}}
+
+\def\image#1#2#3{\begin{center}\includegraphics[#1pt]{#3}\end{center}}
+
+\let\hrefnosnap=\href
+
+\newenvironment{btabular}[1]{\begin{tabular} {#1}}{\end{tabular}}
+
+\newenvironment{red}{\color{red}}{}
+\newenvironment{green}{\color{green}}{}
+\newenvironment{blue}{\color{blue}}{}
+
+%%%%%%%%% Typesetting shortcuts
+
+\def\B{\{0,1\}}
+\def\xor{\oplus}
+
+\def\P{{\mathbb P}}
+\def\E{{\mathbb E}}
+\def\var{{\bf Var}}
+
+\def\N{{\mathbb N}}
+\def\Z{{\mathbb Z}}
+\def\R{{\mathbb R}}
+\def\C{{\mathbb C}}
+\def\Q{{\mathbb Q}}
+\def\eps{{\epsilon}}
+
+\def\bz{{\bf z}}
+
+\def\true{{\tt true}}
+\def\false{{\tt false}}
+
+%%%%%%%%% Theorems and proofs
+
+\newtheorem{exercise}{Exercise}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{example}{Example}
+\newtheorem{remark}[theorem]{Remark}
+\newenvironment{proof}{\noindent {\sc Proof:}}{$\Box$} %\medskip} 
+%%%%%%%%% I added
+\newtheorem{assumption}{Assumption}
+%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+ %MA573 - Final Project
+\end{center}
+
+%\item 
+
+A binomial tree model is given as below:
+\begin{itemize}
+ \item Let $X$ be a random walk with transition probability
+ $$p(X_{n} = (j+1)\Delta x | X_{n-1} = j \Delta x) = p, 
+ \quad 
+ p(X_{n} = (j-1)\Delta x | X_{n-1} = j \Delta x) = 1-p.
+ $$
+ \end{itemize}
+
+A CRR$(N; s, r, \sigma, T)$ model assumes Stock price $S$ satisfies
+with the following additional conditions:
+\begin{itemize}
+ \item $S$ starts from $s$;
+ \item $X_{t} = \ln S_{t}$ follows the random walk with transition probability 
+to upper leg probability 
+$$\hat p = \frac{e^{r\Delta t} - e^{-\sigma \sqrt{\Delta t}}}
+{e^{\sigma \sqrt{\Delta t}} - e^{-\sigma \sqrt{\Delta t}}}$$
+and down leg probability $1- \hat p$.
+\end{itemize}
+
+
+
+
+
+
+
+We consider an option with 
+\begin{center}
+ type = call, maturity $T = 1$ and strike $K = 100$.
+\end{center}
+Its underlying stock has 
+\begin{center}
+ spot price $S_{0} = 100$ and volatility $\sigma = 20\%$.
+\end{center}
+Moreover, the interest rate is $5\%$.
+
+You are expected to try the following tasks:
+\begin{enumerate}
+ \item Compute BSM call value.
+ \item Compute the value of CRR(N = 2000) and observe if it is sufficiently close to BSM value?
+ \item Next, we want to demonstrate the convergence 
+\begin{center}
+ CRR(N) $\to$ BSM, as $N\to \infty$.
+\end{center} 
+To do that, we take the number of steps 
+$N = 10 + 20k$, where $k$ ranges over all integers in $\{0, 1, \ldots, 49\}$.
+
+{\bf pseudocode} 
+\begin{itemize}
+\item plot a graph of the mapping, for $k \in range(50)$
+$$k \mapsto CRR(10 + 20k).$$ 
+\item on the same figure, plot a horizontal line with the level of BSM value.
+\item observe if the CRR curve actually converging to the BSM line?
+\end{itemize}
+
+\item Repeat the above convergence demonstration by replacing the number of steps by
+$$N = 10 + 25 k.$$
+Observe the CRR curve converging to BSM line in the same manner?
+
+\end{enumerate}
+
+
+%\bibliographystyle{plain}
+%\bibliographystyle{plainnat}
+%\bibliographystyle{apalike}
+%\bibliography{/Users/songqsh/Dropbox/R/refs}
+
+\end{document}
