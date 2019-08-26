@@ -1,5 +1,8 @@
 # MQP2019
 
+## Members:
+[Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
+
 ## Python basics on Jupyter notebook
 
 In this section, we will get familiar with python language with Jupyter notebook through some financial applications.
