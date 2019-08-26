@@ -2,7 +2,7 @@
 
 
 
-## Python basics on Jupyter notebook
+## Python basics on Jupyter notebook with Github and colab
 
 In this section, we will get familiar with python language with Jupyter notebook through some financial applications.
 
