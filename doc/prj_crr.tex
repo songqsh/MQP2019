@@ -86,6 +86,8 @@
 
 %\item 
 
+\section{CRR model}
+
 A binomial tree model is given as below:
 \begin{itemize}
  \item Let $X$ be a random walk with transition probability
@@ -106,11 +108,22 @@ $$\hat p = \frac{e^{r\Delta t} - e^{-\sigma \sqrt{\Delta t}}}
 and down leg probability $1- \hat p$.
 \end{itemize}
 
+[Q.] 
+\begin{itemize}
+\item Is CRR arbitrage free model?
+\item What is the limit behavior of $X$ as $N\to \infty$?
+\end{itemize}
+
+
+\section{Computation of CRR vanilla options}
 
 
 
 
+\subsection{Vanilla call/put option computing}
 
+A pricing engine for vanilla call/put can be designed by either Backward iteration or Monte-carlo method.
+One shall compare two methods by using the following example.
 
 We consider an option with 
 \begin{center}
@@ -146,6 +159,52 @@ $$N = 10 + 25 k.$$
 Observe the CRR curve converging to BSM line in the same manner?
 
 \end{enumerate}
+
+
+\subsection{Extension}
+One can try to extend the function of the pricing engine by Monte-Carlo method to some other options:
+\begin{itemize}
+\item Digital option
+\item American option
+\item Barrier option
+\item Option with default risk
+\item Any useful exotic option pricing
+\end{itemize}
+
+
+
+
+Some other investigations are possible if the pricing engine is reliable, for instance
+\begin{itemize}
+\item How does option price change as volatility is getting bigger?
+What do you think of the price if $\sigma\to 0$ or $\sigma\to \infty$?
+\item How sensitively does the price change as the spot price is getting bigger? More sensitivity questions can be referred to Greeks.
+\item Any other useful features for discovery?
+\end{itemize}
+
+
+
+
+\section{Further investigations}
+
+\begin{itemize}
+\item Can one improve pricing on Digital option and Barrier option? See importance sampling/variance reduction, etc.
+\item American option is indeed MDP and one can try one can try any of reinforcement learnings. Probably one can start with Q-learning.
+\item Try Q-learning to American option with barrier/default risk.
+\item Try deep BSDE to American option with barrier/default risk. 
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 %\bibliographystyle{plain}
