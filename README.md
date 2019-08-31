@@ -1,5 +1,9 @@
 # MQP2019
 
+- Participants: [Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
+- Meetings: [Fall 2019](./doc/Fall2019Meeting.pdf)
+
+
 
 
 ## Python basics on Jupyter notebook with Github and colab
@@ -17,5 +21,3 @@ In this section, we will get familiar with python language with Jupyter notebook
 - Two papers on deep BSDE: [paper1](./doc/EHJ17_deep_bsde.pdf), [paper2](./doc/HJE18_deep_bsde.pdf)
 
 
-## Participants:
-[Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
