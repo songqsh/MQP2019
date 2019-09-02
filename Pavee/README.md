@@ -1,6 +1,3 @@
 This is Pavee's page
 
-- Introduce yourself
-- Your work list
-
-- Hi, this is Pavee
+I'm a senior mathematical science at WPI wih planned minor in computer science and data science. 
