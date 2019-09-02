@@ -16,8 +16,8 @@ In this section, we will get familiar with python language with Jupyter notebook
 
 ## References:
 
-- [Book by Mark Joshi](https://math.dartmouth.edu/~m86f17/Downloads/Joshi_The_Concepts_and_Practice_of_MathFin.pdf)
+- [Math Finance Book by Mark Joshi](https://math.dartmouth.edu/~m86f17/Downloads/Joshi_The_Concepts_and_Practice_of_MathFin.pdf)
 - [Online option price calculator](http://quantcalc.net/index.html)
 - Two papers on deep BSDE: [paper1](./doc/EHJ17_deep_bsde.pdf), [paper2](./doc/HJE18_deep_bsde.pdf)
-
+- [Deep learning book by Goodfellow, Bengio, Courville](./doc/http://www.deeplearningbook.org/)
 
