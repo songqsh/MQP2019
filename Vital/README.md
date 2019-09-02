@@ -1,1 +1,1 @@
-Hello my name is Vital and I am a senior at WPI
+Hello my name is Vital and I am a senior at WPI. I'm from Brazil and major in Math. The project you will find here is my MQP or the equivalent of a senior thesis. Some of my interests are history, innovation and soccer.
