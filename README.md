@@ -14,6 +14,16 @@ In this section, we will get familiar with python language with Jupyter notebook
 - Python on Jupyter notebook [ipynb](./other/python_notebook.ipynb)
 - Pandas [ipynb](./other/pandas_basics.ipynb)
 
+## Machine learning
+
+
+
+- linear algebra with tensorflow - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linalg_tf.ipynb)
+- linear regression with pytorch - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linreg_torch_v01.ipynb)
+- experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
+
+
+
 ## References:
 
 - [Math Finance Book by Mark Joshi](https://math.dartmouth.edu/~m86f17/Downloads/Joshi_The_Concepts_and_Practice_of_MathFin.pdf)
