@@ -21,4 +21,4 @@ In this section, we will get familiar with python language with Jupyter notebook
 - Two papers on deep BSDE: [paper1](./doc/EHJ17_deep_bsde.pdf), [paper2](./doc/HJE18_deep_bsde.pdf)
 - [Deep learning book by Goodfellow, Bengio, Courville](http://www.deeplearningbook.org/)
 - [Reinforcement learning by Sutton, Barto](http://incompleteideas.net/book/the-book-2nd.html)
-
+- [Deep BSDE by Quentin Chan](https://gitlab.com/14chanwa/ml_for_semilinear_pdes)
