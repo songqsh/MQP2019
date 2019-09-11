@@ -18,7 +18,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 
 
 
-- linear algebra with tensorflow - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linalg_tf.ipynb)
+- linear algebra with tensorflow package - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linalg_tf.ipynb)
 - linear regression with pytorch - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linreg_torch_v01.ipynb)
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
 
