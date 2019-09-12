@@ -33,4 +33,4 @@ In this section, we will get familiar with python language with Jupyter notebook
 - [Reinforcement learning by Sutton, Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - [Deep BSDE by Quentin Chan](https://gitlab.com/14chanwa/ml_for_semilinear_pdes)
 - [Deep BSDE paper by Pham](https://arxiv.org/abs/1902.01599)
-- [Universal approximation theorem](~/doc/HSW90.pdf)
+- [Universal approximation theorem](doc/HSW90.pdf)
