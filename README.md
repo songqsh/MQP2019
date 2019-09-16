@@ -23,7 +23,9 @@ In this section, we will get familiar with python language with Jupyter notebook
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
 - learning linear function - [ipynb](Nick/Copy_of_linearfunction01.ipynb)
 
+## Financial pricing engines
 
+- A short descriptions and todo list on CRR model - [pdf](https://github.com/songqsh/MQP2019/blob/master/doc/prj_crr.pdf)
 
 ## References:
 
