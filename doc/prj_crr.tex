@@ -90,7 +90,7 @@
 
 A binomial tree model is given as below:
 \begin{itemize}
- \item Let $X$ be a random walk with transition probability
+ \item Let $X$ be a random walk with a transition probability with step size $\Delta t$
  $$p(X_{n} = (j+1)\Delta x | X_{n-1} = j \Delta x) = p, 
  \quad 
  p(X_{n} = (j-1)\Delta x | X_{n-1} = j \Delta x) = 1-p.
@@ -101,6 +101,7 @@ A CRR$(N; s, r, \sigma, T)$ model assumes Stock price $S$ satisfies
 with the following additional conditions:
 \begin{itemize}
  \item $S$ starts from $s$;
+ \item $T/\Delta t$ is an integer, standing for number of steps;
  \item $X_{t} = \ln S_{t}$ follows the random walk with transition probability 
 to upper leg probability 
 $$\hat p = \frac{e^{r\Delta t} - e^{-\sigma \sqrt{\Delta t}}}
@@ -111,7 +112,7 @@ and down leg probability $1- \hat p$.
 [Q.] 
 \begin{itemize}
 \item Is CRR arbitrage free model?
-\item What is the limit behavior of $X$ as $N\to \infty$?
+\item What is the limit behavior of $X$ as $\Delta t \to 0$?
 \end{itemize}
 
 
