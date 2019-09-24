@@ -27,6 +27,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 ## Financial pricing engines
 
 - A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
+- Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
 
 ## References:
 
