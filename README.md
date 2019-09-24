@@ -22,6 +22,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 - linear regression with pytorch - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linreg_torch_v01.ipynb)
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
 - learning linear function - [ipynb](Nick/Copy_of_linearfunction01.ipynb)
+- learning quadratic function - [doc](Pavee/test run.pdf)
 
 ## Financial pricing engines
 
