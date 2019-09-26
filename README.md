@@ -22,10 +22,13 @@ In this section, we will get familiar with python language with Jupyter notebook
 - linear regression with pytorch - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linreg_torch_v01.ipynb)
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
 - learning linear function - [ipynb](Nick/Copy_of_linearfunction01.ipynb)
+- learning quadratic function - [doc](Pavee/test%20run.pdf)
 
 ## Financial pricing engines
 
+- BSM pricing engine -[ipynb](Nick/Copy_of_bsm_formula_v01.ipynb)
 - A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
+- Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
 
 ## References:
 
