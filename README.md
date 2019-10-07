@@ -27,6 +27,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 ## Financial pricing engines
 
 - BSM pricing engine -[ipynb](Nick/Copy_of_bsm_formula_v01.ipynb)
+- Greeks on BSM pricing - [ipynb](Vital/bsm_formula_w/parity&greeks_v02.ipynb)
 - A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
 - Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
 
