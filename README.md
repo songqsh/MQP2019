@@ -1,7 +1,9 @@
 # MQP2019
 
 - Participants: [Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
-- Meetings: [Fall 2019](./doc/Fall2019Meeting.pdf)
+- Meetings: 
+[Fall 2019](./doc/Fall2019Meeting.pdf), 
+[WorkInProgress Symposium](https://www.wpi.edu/news/calendar/events/works-in-progress)
 
 
 
