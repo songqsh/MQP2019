@@ -33,6 +33,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 - A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
 - CRR European Call/Put price - [ipynb](Pavee/CRR_Model.ipynb)
 - Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
+- Implied volatility - [ipynb](Vital/ImpliedVol_ChangesNeeded.ipynb)
 
 ## References:
 
