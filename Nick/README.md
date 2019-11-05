@@ -1,6 +1,7 @@
 # Nick Wotton
 ##### Mathematical Sciences | Worcester Polytechnic Institute
 
-Hi there! My name is Nicholas Wotton. I am a Senior Mathematical Sciences major here at Worcester Polytechnic Institute. My academic focus has been mainly on Optimization and Statistics and Probability. I have also taken some Math graduate classes in the Financial Math area. 
+## Work Thus Far
+[Solving a Linear Function Using a Neural Network](https://github.com/songqsh/MQP2019/blob/master/Nick/NN_linearfunction01.ipynb)
 
-I also have experience programming in Python, Java, and MATLAB.
+[Defining the BSM Formula and Exploring Possible Trends](https://github.com/songqsh/MQP2019/blob/master/Nick/BSM_formula_v01.ipynb)
