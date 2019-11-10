@@ -34,7 +34,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 - Greeks on BSM pricing - [ipynb](Vital/bsm_formula_w/parity&greeks_v02.ipynb)
 - A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
 - Arbitrage theory on discrete model - [ipynb](other/bin_tree.ipynb)
-- CRR European Call/Put price - [ipynb](Pavee/CRR_Model.ipynb)
+- CRR European/American Call/Put price - [ipynb](Pavee/CRR_Model.ipynb)
 - Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
 - Implied volatility - [ipynb](Vital/ImpliedVol_ChangesNeeded.ipynb)
 
