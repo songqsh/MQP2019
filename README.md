@@ -28,6 +28,7 @@ In this section, we will get familiar with python language with Jupyter notebook
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
 - learning linear function - [ipynb](Nick/Copy_of_linearfunction01.ipynb)
 - learning quadratic function - [doc](Pavee/test%20run.pdf)
+- learning second order ODE - [ipynb](https://github.com/songqsh/foo1/blob/master/src/ode02.ipynb)
 
 ## Financial pricing engines
 
