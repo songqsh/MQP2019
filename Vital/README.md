@@ -1,1 +1,14 @@
-Hello my name is Vital and I am a senior at WPI. I'm from Brazil and major in Math. The project you will find here is my MQP or the equivalent of a senior thesis. Some of my interests are history, innovation and soccer.
+Vital Mendonca Filho
+Mathematical Sciences | Worcester Polytechnic Institute
+
+Work
+Arbitrage-Free & Greeks
+
+Neural Network Setup Optimizer
+
+Code Restructure
+
+Implied Volatility
+
+Superficial Background
+Order API
