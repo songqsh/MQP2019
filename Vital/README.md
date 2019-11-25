@@ -1,15 +1,13 @@
 # Vital Mendonca Filho
 
-### Mathematical Sciences | Worcester Polytechnic Institute
+###### Mathematical Sciences | Worcester Polytechnic Institute
 
-Work
-Arbitrage-Free & Greeks
+### Work
 
-Neural Network Setup Optimizer
+#### Arbitrage-Free & Greeks
 
-Code Restructure
+#### Code Restructure
 
-Implied Volatility
+#### Implied Volatility
 
-Superficial Background
-Order API
+#### Superficial Background
