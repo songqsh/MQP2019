@@ -1,4 +1,5 @@
 Vital Mendonca Filho
+
 Mathematical Sciences | Worcester Polytechnic Institute
 
 Work
