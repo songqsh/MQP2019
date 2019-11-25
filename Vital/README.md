@@ -1,6 +1,6 @@
-Vital Mendonca Filho
+#Vital Mendonca Filho
 
-Mathematical Sciences | Worcester Polytechnic Institute
+###Mathematical Sciences | Worcester Polytechnic Institute
 
 Work
 Arbitrage-Free & Greeks
