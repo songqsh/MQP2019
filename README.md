@@ -3,9 +3,7 @@
 - Participants: [Pavee](./Pavee/README.md), [Vital](./Vital/README.md), [Nick](./Nick/README.md)
 - Meetings: 
   - [Fall 2019](./doc/Fall2019Meeting.pdf)
-  - [Work-In-Progress-Symposium](https://www.wpi.edu/news/calendar/events/works-in-progress): 
-    - November 25, 10:00 am to 12:00 pm, Rubin Campus Center - Odeum
-    - [Poster](Pavee/symposium.pdf)
+  - [Work-In-Progress-Symposium](https://www.wpi.edu/news/calendar/events/works-in-progress): [Poster](Pavee/symposium.pdf)
   - [MidReport](doc/MidReportConfirm.pdf): Dec 6, 2-3pm, SH304
   - [C-term](doc/C-Term-Meeting.pdf): Tuesday 2-3, HL202
 
