@@ -7,6 +7,7 @@
     - November 25, 10:00 am to 12:00 pm, Rubin Campus Center - Odeum
     - [Poster](Pavee/symposium.pdf)
   - [MidReport](doc/MidReportConfirm.pdf): Dec 6, 2-3pm, SH304
+  - [C-term](doc/C-Term-Meeting.pdf): Tuesday 2-3, HL202
 
 
 
