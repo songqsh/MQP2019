@@ -13,7 +13,7 @@
 ##### CRR Model
 [American Option](https://github.com/songqsh/MQP2019/blob/master/Pavee/CRR_Model.ipynb)
 
-
+[American Option in Neural Network](https://github.com/songqsh/MQP2019/blob/master/Pavee/Complete_CRR_Neural_Network.ipynb)
 
 ##### Symposium
 [Symposium Poster](https://github.com/songqsh/MQP2019/blob/master/Pavee/symposium.pdf)
