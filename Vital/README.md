@@ -16,6 +16,7 @@
 #### Implied Volatility
 [Implied Volatility Smile v01](https://github.com/vitaltavares/MQP2019/blob/master/Vital/Bank_of_America_Implied_Vol_Surface.ipynb)
 
+
 #### Background
 [Financial Pricing Engine](https://github.com/vitaltavares/MQP2019/blob/master/Vital/MQP19Draft1_Vital.pdf)
 
