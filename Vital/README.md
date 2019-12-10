@@ -21,3 +21,4 @@
 
 #### Report
 [Midterm Report](https://github.com/vitaltavares/MQP2019/blob/master/Vital/PutCallParity__Greeks___Implied_Vol.pdf)
+[Tek File](https://github.com/vitaltavares/MQP2019/blob/master/Vital/PutCallParity%2C%20Greeks%20%26%20Implied%20Vol.zip)
