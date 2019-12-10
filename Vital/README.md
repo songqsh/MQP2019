@@ -14,7 +14,7 @@
 [Restructure of Code](https://github.com/vitaltavares/MQP2019/blob/master/Vital/Restructure.ipynb)
 
 #### Implied Volatility
-[Implied Volatility Smile v01](https://github.com/vitaltavares/MQP2019/blob/master/Vital/Restructure_w_Implied_Vol_Smile.ipynb)
+[Bank of America Implied Volatility Surface](https://github.com/vitaltavares/MQP2019/blob/master/Vital/Restructure_w_Implied_Vol_Smile.ipynb)
 
 #### Background
 [Financial Pricing Engine](https://github.com/vitaltavares/MQP2019/blob/master/Vital/MQP19Draft1_Vital.pdf)
