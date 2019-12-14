@@ -2,7 +2,14 @@
 
 ##### Mathematical Sciences | Worcester Polytechnic Institute
 
+
+
 ## Work
+
+##### Report
+[Non-Linear Approximation with ReLU](https://github.com/songqsh/MQP2019/blob/master/Pavee/Midterm_Report.pdf)
+
+
 ##### Neural Network
 [Non-Linear Approximation with ReLU](https://github.com/songqsh/MQP2019/blob/master/Pavee/test%20run.pdf)
 
