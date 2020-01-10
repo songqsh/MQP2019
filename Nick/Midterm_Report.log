@@ -481,28 +481,27 @@ Type  H <return>  for immediate help.
 l.58 ...degraphics[scale=.7]{Crude-Neural-Net.png}
                                                   
 ? 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 58.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (0.38683pt too wide) in paragraph at lines 65--66
-[]\T1/cmr/m/n/10 Walking through the di-a-gram, we be-gin with our input-output
- pair, $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
- x\OT1/cmr/m/n/10 ))$\T1/cmr/m/n/10 .
- []
-
-
-LaTeX Warning: File `nnModelCode.png' not found on input line 99.
-
-
-./Midterm_Report.tex:99: Package pdftex.def Error: File `nnModelCode.png' not f
-ound.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
+./Midterm_Report.tex:58: Emergency stop.
  ...                                              
                                                   
-l.99 \includegraphics[scale=0.9]{nnModelCode.png}
+l.58 ...degraphics[scale=.7]{Crude-Neural-Net.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 2803 strings out of 493089
+ 36598 string characters out of 6134842
+ 99723 words of memory out of 5000000
+ 6238 multiletter control sequences out of 15000+600000
+ 14442 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,23p,528b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+./Midterm_Report.tex:58:  ==> Fatal error occurred, no output PDF file produced
+!
+cludegraphics[scale=0.9]{nnModelCode.png}
                                                  
 ? 
 [2]
