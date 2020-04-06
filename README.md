@@ -6,6 +6,7 @@
   - [Work-In-Progress-Symposium](https://www.wpi.edu/news/calendar/events/works-in-progress): [Poster](Pavee/symposium.pdf)
   - [MidReport](doc/MidReportConfirm.pdf): Dec 6, 2-3pm, SH304
   - [C-term](doc/C-Term-Meeting.pdf): Tuesday 2-3, HL202
+- Final report - [pdf](./doc/thesis.pdf)
 
 
 
